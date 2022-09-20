@@ -3,12 +3,6 @@
 #include <math.h>
 
 
-//
-// Implementation
-//2021100045 자유전공학부 컴퓨터학과 박승원
-
-
-
 // Copy constructor
 Polynomial::Polynomial(const Polynomial& source)
 {
